@@ -8,7 +8,7 @@ This repository contains my complete data analysis project using Python for Conv
 A comprehensive case study on "TeddyWorld" utilizing transaction and web session data (March 2012 - March 2015) to evaluate A/B testing results, diagnose funnel bottlenecks, and strategically maximize customer experience.  
 * **Full-Funnel Decomposition:** Mapped the end-to-end user journey across 4 major branches to diagnose a 6.83% overall conversion rate. Uncovered a severe top-funnel bottleneck where over 55% of total traffic bounced before ever reaching a product detail page.
 * **Device-Specific UI/UX Friction:** Identified a critical drop-off specifically on mobile devices, which only achieved a 32.23% product view rate compared to 49.91% on desktop. Conducted a heuristic UX evaluation revealing disruptive pop-ups, poor color contrast, and cramped navigation menus as the root causes of customer drop-off.
-* **A/B Testing Validation:** Evaluated a bottom-funnel A/B test between two checkout pages (/billing vs. /billing-2). Proved that /billing-2 significantly outperformed the original in both conversion rate and Average Order Value (AOV) across all devices.
+* **A/B Testing Validation:** Analyzed a checkout A/B test, proving the winning variant significantly boosted Desktop/Mobile conversion rates to 64.9%/55.0% (up from 46.1%/34.5%) and increased Average Order Value from $49.99 to >$60 across all devices.
 * **Strategic Revenue Projection:** Modeled future performance, calculating that rolling out the /billing-2 page to 100% of traffic would recoup testing costs and generate an additional projected revenue of $1,916 per month, elevating the baseline expected monthly revenue to $4,557.
 
 ## 🔧 **Tech Stack**
